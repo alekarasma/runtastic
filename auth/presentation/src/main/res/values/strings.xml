@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="runtastic">Runtastic</string>
+    <string name="welcome">Welcome to Runtastic!</string>
+    <string name="runtastic_description">Track your run, set goals and run fantastic :)</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already have an account? </string>
+    <string name="login">Login</string>
+    <string name="example_email">email@example.com</string>
+    <string name="email">Email</string>
+    <string name="must_be_a_valid_email">Must be a valid email</string>
+    <string name="password">Password</string>
+    <string name="atleast_x_characters">Atleast %d Characters</string>
+    <string name="atleast_one_number">Atleast one number</string>
+    <string name="contains_uppercase_char">Has UpperCase Character</string>
+    <string name="contains_lowercase_char">Has LowerCase Character</string>
+    <string name="register">Regsiter</string>
+    <string name="error_email_exists">Email already exists!!</string>
+    <string name="registeration_successful">Registration Successful</string>
+    <string name="hi_there">Hi there!!!</string>
+    <string name="runtastic_welcome_text">Welcome to your ultimate running companion! Track, analyze and conquer your runs.</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="you_are_logged_in">You are logged In!</string>
+    <string name="error_email_password_incorrect">Email or Password is incorrect.</string>
+</resources>
