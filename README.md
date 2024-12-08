@@ -9,3 +9,5 @@ Run Stats: Get detailed statistics for each session, such as speed, distance, an
 
 
 ![image](https://github.com/user-attachments/assets/58c8e53e-9889-4499-83f1-e689fe00b067)
+![image](https://github.com/user-attachments/assets/e2c4db93-faae-4689-a0c2-3104d06fa4c1)
+
