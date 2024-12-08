@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disk_full">Cant save data,your disk is full</string>
+    <string name="request_timeout">Request timed out</string>
+    <string name="too_many_requests">Too many request, you have hit the rate limit\n</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="payload_too_large">Payload is too large</string>
+    <string name="server_error">Server Error</string>
+    <string name="serialization">Serialization Error\n</string>
+    <string name="unknown_error">Unknown Error</string>
+</resources>
